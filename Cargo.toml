@@ -3,8 +3,8 @@ name = "dy-export"
 version = "1.0.0"
 authors = ["Chanjung Kim <freiyer.paxbun@gmail.com>"]
 edition = "2018"
-description = "Define DLL functions using paxbun/dy-rust easily"
-repository = "https://github.com/paxbun/dy-export"
+description = "Define DLL functions using stelo-stella/dy-rust easily"
+repository = "https://github.com/stelo-stella/dy-export"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
